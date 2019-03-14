@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c638c6e-0452-44f4-a960-51be50783d02" name="Default Changelist" comment="上传springboot项目">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c638c6e-0452-44f4-a960-51be50783d02" name="Default Changelist" comment="上传springboot项目" />
     <ignored path="$PROJECT_DIR$/../test2_springboot/target/" />
     <ignored path="$PROJECT_DIR$/test2/target/" />
     <ignored path="$PROJECT_DIR$/test4_springboot/target/" />
@@ -433,7 +431,7 @@
       <workItem from="1552480565852" duration="2058000" />
       <workItem from="1552483642463" duration="4394000" />
       <workItem from="1552555144272" duration="1173000" />
-      <workItem from="1552556363007" duration="720000" />
+      <workItem from="1552556363007" duration="1005000" />
     </task>
     <task id="LOCAL-00001" summary="上传springboot项目">
       <created>1552483357594</created>
@@ -446,7 +444,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27661000" />
+    <option name="totallyTimeSpent" value="27946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
